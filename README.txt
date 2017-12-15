@@ -26,3 +26,7 @@ sudo apt-get install   python-libxml2  python-matplotlib python-numpy ipython py
 
 #if jupyter error python
 python3 -m ipykernel install --user
+
+
+sudo pip3 install keras
+sudo apt-get install python-skimage
