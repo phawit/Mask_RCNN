@@ -22,3 +22,7 @@ before doing above steps install cython
 import sys
 sys.version
 
+sudo apt-get install   python-libxml2  python-matplotlib python-numpy ipython python-scipy python-tk
+
+#if jupyter error python
+python3 -m ipykernel install --user
